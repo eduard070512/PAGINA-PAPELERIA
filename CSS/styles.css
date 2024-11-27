@@ -35,10 +35,10 @@ p{
     text-align: left;
     display: block;
     justify-content: center;
-    width: 400px;
     margin: 0;
     box-sizing: border-box;
     float: left;
+    width: 450px;
 }
 .der{
     text-align: left;
